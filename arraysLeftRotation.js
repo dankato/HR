@@ -20,3 +20,4 @@ function main() {
 
 // arrays have fixed length
 // resizable arrays can grow as needed
+// O(1) indexing, but it can grow
